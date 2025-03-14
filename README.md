@@ -1,5 +1,5 @@
 # bafk-hash-php-ipfs-
-IPFS compatible "bafy" hash from data.
+IPFS compatible "bafk" hash from data.
 
 Content of generate_ipfs_cidv1.php:
 
