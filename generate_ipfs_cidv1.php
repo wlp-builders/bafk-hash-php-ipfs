@@ -1,9 +1,3 @@
-# bafk-hash-php-ipfs-
-IPFS compatible "bafy" hash from data.
-
-Content of generate_ipfs_cidv1.php:
-
-```
 <?php
 
 function generate_ipfs_bafk_cid($data) {
@@ -52,4 +46,3 @@ function base32_encode($input) {
 $data = "Hello, world!";
 echo generate_ipfs_bafk_cid($data);
 //*/
-```
